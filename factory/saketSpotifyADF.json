@@ -1,0 +1,9 @@
+{
+	"name": "saketSpotifyADF",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "414f97ad-6c2d-44c4-968b-56b8a9e9875c",
+		"tenantId": "27d62887-d026-4a3a-ae00-c8433b3a0b4e"
+	}
+}
